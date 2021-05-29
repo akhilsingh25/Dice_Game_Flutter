@@ -14,3 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+To create your own new flutter project 
+> Flutter create "name" ( example --> FLutter create dice ) 
+> Copy the code of lib and images and then reload the app , also update yaml dependencies
+> 
+
